@@ -1,2 +1,2 @@
-# Meta_Capstone_LittleLemon_
-A Meta Capstone project that use API to build a website: LittleLemon Restaurant
+# Meta_Capstone_LittleLemon
+A Meta Capstone project using API to build a website: LittleLemon Restaurant
