@@ -83,7 +83,7 @@ class MenuItem(models.Model):
 #     def __str__(self):
 #         return self.name
     
-# class MenuItem(models.Model):
+# class Menu(models.Model):
 #     dish = models.CharField(max_length=50)
 #     price = models.DecimalField(max_digits=5, decimal_places=2)
 #     inventory = models.IntegerField()

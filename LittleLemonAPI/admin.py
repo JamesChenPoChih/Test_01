@@ -6,3 +6,6 @@ admin.site.register(models.Category)
 admin.site.register(models.Cart)
 admin.site.register(models.Order)
 admin.site.register(models.OrderItem)
+
+admin.site.register(Menu)
+admin.site.register(Booking)
